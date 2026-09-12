@@ -1,7 +1,7 @@
 # Laboratory Work 1
 
-**Student:** A. A. Kulchinskiy  
-**Group:** 25ДЦК-1  
+**Student:** Kulchinskiy Arseni<br>
+**Group:** 25 DCK<br>
 **Project:** `lab01-hello-maven`
 
 ## Description
@@ -14,7 +14,7 @@ The application uses Apache Commons Lang to format a personalized greeting.
 - Java 25
 - Apache Maven
 - Apache Commons Lang 3.20.0
-- Git
+- Git and GitHub
 
 ## Project structure
 
@@ -37,7 +37,7 @@ Open the project in IntelliJ IDEA with JDK 25 and run `HelloApplication.main()`.
 Expected output:
 
 ```text
-Hello, A. A. Kulchinskiy!
+Hello, Kulchinskiy Arseni!
 My first Maven project works!
 ```
 

@@ -4,7 +4,7 @@ import org.apache.commons.lang3.StringUtils;
 
 public class HelloApplication {
     public static void main(String[] args) {
-        String studentName = "A. A. Kulchinskiy";
+        String studentName = "Kulchinskiy Arseni";
         String greeting = "hello, " + studentName + "!";
 
         System.out.println(StringUtils.capitalize(greeting));
